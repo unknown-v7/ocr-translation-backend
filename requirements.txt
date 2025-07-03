@@ -1,0 +1,10 @@
+Flask==2.2.5
+pytesseract==0.3.10
+deep_translator==1.8.1
+gTTS==2.3.1
+reportlab==3.6.12
+opencv-python==4.7.0.72
+numpy==1.24.3
+pandas==2.0.1
+python-docx==0.8.11
+gunicorn==20.1.0
